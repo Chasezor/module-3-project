@@ -9,21 +9,21 @@ function colorFunc(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	window.alert('the PARK');
+	window.alert('My favorite color is crimson, but not the one found on CSS autofills');
 }
 
 function placeFunc(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	window.alert('THE PARK');
+	window.alert('Rome - Capital of Italy or Utah');
 }
 
 function ritualFunc(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	window.alert('ritual started');
+	window.alert('Ritual Started');
 }
 
 

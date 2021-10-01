@@ -13,7 +13,7 @@ function giveComp(evt) {
 	evt.preventDefault();
 	
 	//console.log('form submit');
-	window.alert('Nice Butt');
+	window.alert('Your GREAT!');
 }
 
 
