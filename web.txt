@@ -1,0 +1,4 @@
+**How does the internet work? What happens when you click on a link? **
+
+The internet is a cluster of interconnected computers spanning the earth and skies above.
+The two elements of the internet are clients and servers. Servers host information and process information. Clients interact and request information. When you visit a website's domain name you are visiting their address on the internet. This domain name can be thought of as a home address where the server lives. All machines have Ip addresses and can be servers if the machine is configured right. A client in the simplest of forms is just a web browser or viewing device. When you click a link you make a request for data. The server processes the request and sends the request information back to the client.  This information can be text or binary, and is processed by the client or browser for display. 

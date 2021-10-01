@@ -1,0 +1,100 @@
+body {
+  background: rgb(255, 255, 255);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+nav {
+	border-bottom: 2px solid #0001F0;
+
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+	cursor: pointer;
+}
+
+a {
+	color: #0001F0;
+	cursor: pointer;
+}
+
+a:visited {
+	color: #0001A3;
+}
+
+/*
+input {
+	display: block;
+}
+*/
+
+img {
+	max-width: 300px;
+	cursor: pointer;
+}
+
+textarea {
+	resize: none;
+ }
+
+ button{
+	background-color: #F0C300;
+	border: none;
+	width: 100%;
+	height: 50px;
+	max-width: 30%;
+	border-radius: 20px;
+	color:white;
+	font-weight: book;
+	margin: auto;
+	padding: auto;
+ }
+
+ #subBtn{
+	background-color: #F0C300;
+	border: none;
+	width: 100px;
+	height: 40px;
+	border-radius: 20px;
+	color:white;
+	font-weight: book;
+	margin: auto;
+	padding: auto;
+ }
+
+ button:hover{
+	background-color: #F0C300;
+	cursor: pointer;
+ }
+
+ #subBtn:hover{
+	background-color: #F0C300;
+	cursor: pointer;
+ }
+
+ h2{
+	 text-align: center;
+ }
+
+ h3{
+	text-align: center;
+}
+
+input[type=checkbox],
+input[type=radio] {
+  vertical-align: middle;
+  position: relative;
+  bottom: 1px;
+}
+input[type=radio] {
+  bottom: 2px;
+}
